@@ -1,0 +1,11 @@
+sensor_id,mulai,selesai,puncak,nama_sensor,provinsi,pulau
+SENS-004,2026-07-01,2026-10-14,1127.5741666666663,AQMS Palangka Raya Jekan Raya,Kalimantan Tengah,Kalimantan
+SENS-005,2026-07-01,2026-10-14,1119.5534782608695,AQMS Sampit Mentawa Baru,Kalimantan Tengah,Kalimantan
+SENS-020,2026-08-01,2026-10-14,631.6173913043478,AQMS BMKG Kabupaten Kotawaringin Barat,Kalimantan Tengah,Kalimantan
+SENS-026,2024-08-01,2025-03-29,336.7,AQMS BMKG Stasiun Klimatologi Banjarbaru,Kalimantan Selatan,Kalimantan
+SENS-019,2026-08-01,2026-10-14,322.0173913043478,AQMS BMKG Kabupaten Sintang,Kalimantan Barat,Kalimantan
+SENS-025,2024-07-01,2024-10-29,292.2757894736842,AQMS BMKG Samarinda APT Pranoto,Kalimantan Timur,Kalimantan
+SENS-025,2026-07-02,2026-10-14,248.84833333333336,AQMS BMKG Samarinda APT Pranoto,Kalimantan Timur,Kalimantan
+SENS-025,2025-07-03,2025-10-23,242.19777777777776,AQMS BMKG Samarinda APT Pranoto,Kalimantan Timur,Kalimantan
+SENS-021,2026-08-02,2026-10-14,238.68150781344815,AQMS BMKG Talang Betutu Palembang,Sumatera Selatan,Sumatera
+SENS-010,2026-10-09,2026-10-14,188.99166666666667,AQMS BMKG Kabupaten Agam,Sumatera Barat,Sumatera
